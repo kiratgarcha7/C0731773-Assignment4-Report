@@ -32,17 +32,7 @@ namespace C0731773
                     Console.WriteLine(ln);
                     Beowulf.Add(ln);
                 }
-
-
-
-
-
-
-
-
                 Console.WriteLine("essay consist of lines: " + counter);
-
-
             }
         }
         public int FindNumberofBlankSpaces(string line)
